@@ -10,6 +10,7 @@ namespace GitProject.Feature1
     {
         public static void Foo()
         {
+            Console.WriteLine("Abc");
             Console.WriteLine("Foo");
         }
     }
