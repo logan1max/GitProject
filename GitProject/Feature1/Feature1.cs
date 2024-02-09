@@ -11,7 +11,7 @@ namespace GitProject.Feature1
         public static void Foo()
         {
             Console.WriteLine("Abc");
-            Console.WriteLine("Foo");
+            Console.WriteLine("456");
             Console.WriteLine("Def");
             Console.WriteLine("123");
         }
