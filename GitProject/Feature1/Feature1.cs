@@ -14,6 +14,7 @@ namespace GitProject.Feature1
             Console.WriteLine("456");
             Console.WriteLine("Def");
             Console.WriteLine("645");
+            Console.WriteLine("684");
         }
     }
 }
