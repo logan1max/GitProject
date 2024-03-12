@@ -12,6 +12,7 @@ namespace TestProject
         {
             Assert.Pass();
             Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
