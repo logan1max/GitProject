@@ -8,6 +8,9 @@ namespace GitProject.Feature1
 {
     public class Feature2
     {
-
+        public Feature2()
+        {
+            
+        }
     }
 }
